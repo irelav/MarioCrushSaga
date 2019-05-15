@@ -11,8 +11,7 @@ Mario teemaline Candy Crush.
 2. Seejärel avada Unity's - projekt oli tehtud Unity 2018.3.14f1
 
 ### Testimine ja screenshotid:
-Testitud sai Samsung S8 peal (Android 9.0), ning ainukeseks probleemiks oli, et kõik ikoonid ei mahtunud ekraanile.
-Antud screenshotid on tehtud arvuti ekraanilt.
+Testitud sai Samsung S8 peal (Android 9.0), ning ainukeseks probleemiks oli, et kõik ikoonid ei mahtunud ekraanile. Antud screenshotid on tehtud arvuti ekraanilt.
 <img src="https://github.com/irelav/MarioCrushSaga/blob/master/Screenshots/main_page.PNG" alt="main_page" width="300" height="500"><img src="https://github.com/irelav/MarioCrushSaga/blob/master/Screenshots/game_page.PNG" alt="game_page" width="300" height="500">
 
 
