@@ -11,6 +11,6 @@ Mario teemaline Candy Crush.
 
 ### Testimine ja screenshotid:
 Testitud sai Samsung S8 peal (Android 9.0), ning ainukeseks probleemiks oli, et kõik ikoonid ei mahtunud ekraanile.
-
+<img src="https://github.com/irelav/MarioCrushSaga/blob/master/Screenshots/main_page.PNG" alt="main_page" width="300" height="500"><img src="https://github.com/irelav/MarioCrushSaga/blob/master/Screenshots/game_page.PNG" alt="game_page" width="300" height="500">
 
 
